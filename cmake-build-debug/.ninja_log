@@ -1,0 +1,12 @@
+# ninja log v5
+0	387	6992045414236218	CMakeFiles/secondPractice_firstTask.dir/second_practice/first_task/main.cpp.obj	2c9a7e691a0e002c
+6	389	6992045414236218	CMakeFiles/secondPractice_firstTask.dir/second_practice/first_task/triangle.cpp.obj	b06794c7c2edb352
+390	512	6992045415465125	secondPractice_firstTask.exe	97e4076b4d326160
+3	290	6992045646696072	CMakeFiles/secondPractice_firstTask.dir/second_practice/first_task/main.cpp.obj	2c9a7e691a0e002c
+290	373	6992045647476237	secondPractice_firstTask.exe	97e4076b4d326160
+1	107	6992050012951070	CMakeFiles/secondPractice_secondTask.dir/second_practice/second_task/circle.cpp.obj	1a4d8e5017abe5c
+8	280	6992050014674577	CMakeFiles/secondPractice_secondTask.dir/second_practice/second_task/main.cpp.obj	f83c0a012cfa5896
+281	378	6992050015587901	secondPractice_secondTask.exe	e294bf17ea6a8c7e
+5	301	6992052903639417	CMakeFiles/secondPractice_thirdTask.dir/second_practice/third_task/main.cpp.obj	65db1e6c494c6fca
+0	341	6992052904040104	CMakeFiles/secondPractice_thirdTask.dir/second_practice/third_task/figure.cpp.obj	9878f5b8308a47e2
+341	432	6992052904893037	secondPractice_thirdTask.exe	51071a76548e4ed4
