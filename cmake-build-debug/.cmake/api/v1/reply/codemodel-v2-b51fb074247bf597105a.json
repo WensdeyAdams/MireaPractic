@@ -17,7 +17,12 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
 					]
 				}
 			],
@@ -34,12 +39,24 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "eight_practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eight_practice-Debug-f8ddf032723e1e7485a5.json",
+					"name" : "eight_practice",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "secondPractice_firstTask::@6890427a1f51a3e7e1df",
@@ -59,6 +76,34 @@
 					"id" : "secondPractice_thirdTask::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-secondPractice_thirdTask-Debug-2059942d8f86c938eef7.json",
 					"name" : "secondPractice_thirdTask",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seventh_practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seventh_practice-Debug-ee182a7de5324fdfcbd6.json",
+					"name" : "seventh_practice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sixth_practice_first_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sixth_practice_first_task-Debug-421abd26fc44b7608ff2.json",
+					"name" : "sixth_practice_first_task",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sixth_practice_second_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sixth_practice_second_task-Debug-0d7ba019cb0bc0a62e15.json",
+					"name" : "sixth_practice_second_task",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sixth_practice_third_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sixth_practice_third_task-Debug-8f04ad5454f67e375ef9.json",
+					"name" : "sixth_practice_third_task",
 					"projectIndex" : 0
 				}
 			]

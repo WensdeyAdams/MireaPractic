@@ -1,5 +1,10 @@
 C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/secondPractice_firstTask.dir
 C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/secondPractice_secondTask.dir
 C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/secondPractice_thirdTask.dir
+C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/sixth_practice_first_task.dir
+C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/sixth_practice_second_task.dir
+C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/sixth_practice_third_task.dir
+C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/seventh_practice.dir
+C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/eight_practice.dir
 C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/zhura/Documents/GitHub/MireaPractic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
